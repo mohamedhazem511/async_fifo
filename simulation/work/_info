@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\GP_Risc_V\RISC_V_edit
+vfifo_mem
+Z1 !s100 CLIb2G2IN]3X[0R5HF;7_0
+Z2 I;I]82>P@2F;>Fn^_Ac42[2
+Z3 VRQ9MS7Kd2R7gH^M>EDNG]2
+Z4 dG:\fifo\FIFO
+Z5 w1675396768
+Z6 8G:\fifo\FIFO\fifo_mem.v
+Z7 FG:\fifo\FIFO\fifo_mem.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|G:\fifo\FIFO\fifo_mem.v|
+Z10 o-work work -O0
+Z11 !s108 1675399861.111000
+Z12 !s107 G:\fifo\FIFO\fifo_mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_tb
+Z13 I4kV?_TM0a1[TXE_4DA`R>0
+Z14 VS4f64oh9Q77BMUhTU<z[31
+R4
+Z15 w1675399852
+Z16 8G:/fifo/FIFO/fifo_tb.v
+Z17 FG:/fifo/FIFO/fifo_tb.v
+L0 4
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|G:/fifo/FIFO/fifo_tb.v|
+R10
+Z19 !s100 [CaiG:5_H=dGeHF6eD6LG0
+Z20 !s108 1675399861.263000
+Z21 !s107 G:/fifo/FIFO/fifo_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_top
+Z22 !s100 Pb>f73^b_CEGYI7>cXN^n1
+Z23 Icem`=0O^Qe_8I=7=bNVEl1
+Z24 V3VGl1d]ZbQ@zi@YK>JgRo1
+R4
+Z25 w1675397100
+Z26 8G:/fifo/FIFO/fifo_top.v
+Z27 FG:/fifo/FIFO/fifo_top.v
+L0 9
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|G:/fifo/FIFO/fifo_top.v|
+R10
+Z29 !s108 1675399861.392000
+Z30 !s107 G:/fifo/FIFO/fifo_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrptr_empty
+Z31 !s100 8eag[DDHnLL@><iD@YVXd1
+Z32 I<2Q^jfY[bK56LUkm>Zk6m1
+Z33 V=kTcdLhe3zni356<Gc=oR0
+R4
+Z34 w1675398764
+Z35 8G:/fifo/FIFO/rptr_empty.v
+Z36 FG:/fifo/FIFO/rptr_empty.v
+L0 16
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|G:/fifo/FIFO/rptr_empty.v|
+R10
+Z38 !s108 1675399861.541000
+Z39 !s107 G:/fifo/FIFO/rptr_empty.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsync_r2w
+Z40 !s100 1SaS4Y^U_zSz1B2U<9CzS2
+Z41 I<df]?zEbM9c^9mGKEomjA3
+Z42 VdR@z[zn6MM?c5NXWUSh:I1
+R4
+Z43 w1675397750
+Z44 8G:/fifo/FIFO/sync_r2w.v
+Z45 FG:/fifo/FIFO/sync_r2w.v
+L0 9
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|G:/fifo/FIFO/sync_r2w.v|
+R10
+Z47 !s108 1675399861.701000
+Z48 !s107 G:/fifo/FIFO/sync_r2w.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsync_w2r
+Z49 !s100 ^aBz3zlJ0]JbUf_haWB?Z3
+Z50 IL0>jg1Vo?NoUhGP4?DOjS0
+Z51 VBld4jR:R<Ee0lhaj781MH2
+R4
+Z52 w1675397768
+Z53 8G:/fifo/FIFO/sync_w2r.v
+Z54 FG:/fifo/FIFO/sync_w2r.v
+L0 9
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|G:/fifo/FIFO/sync_w2r.v|
+R10
+!i10b 1
+!s85 0
+Z56 !s108 1675399862.011000
+Z57 !s107 G:/fifo/FIFO/sync_w2r.v|
+!s101 -O0
+vwptr_full
+!i10b 1
+Z58 !s100 ^]2i?YhoXFbobKZB<z=SW2
+Z59 IAN9ngQA2Gb3?K^R1n9YZT0
+Z60 VeM3URd6i0J50BN2]EkCR42
+R4
+Z61 w1675398220
+Z62 8G:\fifo\FIFO\wptr_full.v
+Z63 FG:\fifo\FIFO\wptr_full.v
+L0 18
+R8
+r1
+!s85 0
+31
+!s108 1675399862.215000
+!s107 G:\fifo\FIFO\wptr_full.v|
+Z64 !s90 -reportprogress|300|-work|work|G:\fifo\FIFO\wptr_full.v|
+!s101 -O0
+R10

@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/fifo_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/fifo_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/rptr_empty.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rptr_empty
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/sync_r2w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync_r2w
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/sync_w2r.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sync_w2r
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/wptr_full.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wptr_full
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/fifo_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/fifo/FIFO/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+G:/fifo/FIFO/fifo_mem.v,1675396768,verilog,,G:/fifo/FIFO/fifo_top.v,,fifo_mem,,,,,,,,
+G:/fifo/FIFO/fifo_tb.v,1675399852,verilog,,,,fifo_tb,,,,,,,,
+G:/fifo/FIFO/fifo_top.v,1675397100,verilog,,G:/fifo/FIFO/rptr_empty.v,,fifo_top,,,,,,,,
+G:/fifo/FIFO/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+G:/fifo/FIFO/rptr_empty.v,1675398764,verilog,,G:/fifo/FIFO/sync_r2w.v,,rptr_empty,,,,,,,,
+G:/fifo/FIFO/sync_r2w.v,1675397750,verilog,,G:/fifo/FIFO/sync_w2r.v,,sync_r2w,,,,,,,,
+G:/fifo/FIFO/sync_w2r.v,1675397768,verilog,,G:/fifo/FIFO/wptr_full.v,,sync_w2r,,,,,,,,
+G:/fifo/FIFO/wptr_full.v,1675398220,verilog,,G:/fifo/FIFO/fifo_tb.v,,wptr_full,,,,,,,,

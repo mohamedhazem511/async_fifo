@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Feb  3 07:36:02 2023
+# Process ID: 15552
+# Current directory: G:/fifo/FIFO/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log fifo_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_top.tcl
+# Log file: G:/fifo/FIFO/project_1/project_1.runs/synth_1/fifo_top.vds
+# Journal file: G:/fifo/FIFO/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fifo_top.tcl -notrace

@@ -1,0 +1,22 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 7524c52e957446bea41a779ab681c939 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot fifo_tb_behav xil_defaultlib.fifo_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "G:/fifo/FIFO/fifo_top.v" Line 9. Module fifo_top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/fifo/FIFO/rptr_empty.v" Line 16. Module rptr_empty doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/fifo/FIFO/fifo_mem.v" Line 2. Module fifo_mem_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/fifo/FIFO/sync_r2w.v" Line 9. Module sync_r2w doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.rptr_empty
+Compiling module xil_defaultlib.wptr_full
+Compiling module xil_defaultlib.fifo_mem_default
+Compiling module xil_defaultlib.sync_r2w
+Compiling module xil_defaultlib.sync_w2r
+Compiling module xil_defaultlib.fifo_top
+Compiling module xil_defaultlib.fifo_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot fifo_tb_behav
